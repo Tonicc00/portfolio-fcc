@@ -310,6 +310,7 @@ footer{
 @media only screen and (max-width: 780px){
   #projects{
     height: auto;
+    padding-bottom: 10rem;
   }
   .project{
     font-size: 1.5rem;
